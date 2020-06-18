@@ -1,0 +1,12 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  background-image: url("Imagens/fundo2.jpg");
+  background-position: center;
+  background-size: 2280px;
+  color: white;
+  font-family: arial;
+}
